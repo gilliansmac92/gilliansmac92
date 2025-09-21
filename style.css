@@ -3771,6 +3771,7 @@ textarea.form-control-lg {
   --bs-navbar-toggler-focus-width: 0.25rem;
   --bs-navbar-toggler-transition: box-shadow 0.15s ease-in-out;
   position: relative;
+  height: 48px;
   display: flex;
   flex-wrap: wrap;
   align-items: center;
