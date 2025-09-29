@@ -1,2 +1,5 @@
-# gsm
-Personal Website + Files
+Hi, I’m Gillian Macdonald and I am the Director of LEADR (Lab for the Education and Advancement in Digital Research) at Michigan State University.
+I am an early modern Europeanist specialising in the late-seventeenth century British Isles and Atlantic World. My current research focuses on the North Channel borderlands as both a region and an environmental space in terms of political oversight and determinism. Here I analyse the effect both people and evironment had on the region and wider policies applied to ports, trade, and movement between 1688 and 1697.
+I’m also a digital historian and humanist. I have built numerous classroom projects and have several big DH projects that I'm actively working on and have worked on. You can find my current project on networking the revolution in my repositories.
+I'm interested in the uses of digital methods to aid learning outcomes in history courses. At LEADR, we specialize in adding digital projects or counterparts to assignments giving students a chance to hone skills in coding, data visualization, and 3D printing among others.
+Reach me at: macdo313 [at] msu [dot] edu; gilliansmacdonald [dot] hcommons [dot] org; or [at] gilliansmac [dot] bsky [dot] social
