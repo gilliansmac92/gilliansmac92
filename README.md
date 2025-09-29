@@ -3,3 +3,4 @@
 - I’m also a digital historian and humanist. I have built numerous classroom projects and have several big DH projects that I'm actively working on and have worked on. You can find my current project on networking the revolution in my repositories.
 - I'm interested in the uses of digital methods to aid learning outcomes in history courses. At LEADR, we specialize in adding digital projects or counterparts to assignments giving students a chance to hone skills in coding, data visualization, and 3D printing among others.
 - Reach me at: macdo313 [at] msu [dot] edu; gilliansmacdonald [dot] hcommons [dot] org; or [at] gilliansmac [dot] bsky [dot] social
+<img width="235" height="243" alt="Screenshot 2024-04-01 at 10 23 16" src="https://github.com/user-attachments/assets/f85fa495-6bcd-431e-afaa-9633f48b48a8" />
