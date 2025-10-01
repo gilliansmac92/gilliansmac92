@@ -4,6 +4,7 @@ Hello and welcome! I’m Gillian Macdonald and I am the Director of LEADR (Lab f
 ## 💾 : About Me
 
 **Current Roles**: Director of LEADR, Assistant Professor of History (Fixed-Term), Co-Director of Cultural Heritage Informatics Fellowship 
+
 **Specialties**: 
 - Early Modern Europe
 - Medieval Civilization
