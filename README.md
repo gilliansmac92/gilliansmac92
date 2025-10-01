@@ -11,7 +11,7 @@ Hello and welcome! I’m Gillian Macdonald and I am the Director of LEADR (Lab f
 - Early America
 - Atlantic World
 - Digital History
-- Ethics of AI 
+- Ethics of AI + its use in historical research
 
 I am an early modern European historian who specializes in the late-seventeenth century British Isles and Atlantic World. I am very interested in people, movement, and environment within the sphere of political regulation and determination (how borders function). My current book project focuses on the Irish Sea or the North Channel and its role in the late seventeenth century Revolution in Scotland. I’m also a digital historian and humanist. 
 
