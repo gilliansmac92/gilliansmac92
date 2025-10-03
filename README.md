@@ -17,9 +17,9 @@ I am an early modern European historian who specializes in the late-seventeenth 
 
 ## 🔅: Current Projects
 
-- Networking the Revolution [networkingtherevolution.org (networkingtherevolution.org)]
+- Networking the Revolution [https://networkingtherevolution.org]
 - Digital Mark Twain Day By Day Project (MATRIX)
-- A Search for Research [https://networks.h-net.org/search-research (https://networks.h-net.org/search-research)]
+- A Search for Research [https://networks.h-net.org/search-research]
 - Digitization + Digitial Portal of the Radicalism Newsletter (Joint Project by LEADR, H-Net + USIH)
   
 I have built numerous classroom projects and have several projects that I'm actively working on. You can find my current research in my repositories. I'm actively engaged in the uses of digital methods to aid learning outcomes in history and anthropology courses. At LEADR, we specialize in adding digital projects or counterparts to assignments giving students a chance to hone skills in coding, data visualization, and 3D printing among others.
