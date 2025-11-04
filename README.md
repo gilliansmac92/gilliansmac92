@@ -8,8 +8,7 @@ Hello and welcome! I’m Gillian Macdonald and I am the Director of LEADR (Lab f
 **Specialties**: 
 - Early Modern Europe
 - Medieval Civilization
-- Early America
-- Atlantic World
+- Early America + the Atlantic World
 - Digital History
 - Ethics of AI + its use in historical research
 
