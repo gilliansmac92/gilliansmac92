@@ -1,6 +1,6 @@
 # 📌 Dr. Gillian Macdonald | Director of the Lab for the Education and Advancement in Digital Research (LEADR) 
 
-Hello and welcome! I’m Gillian Macdonald and I am the Director of LEADR (Lab for the Education and Advancement in Digital Research) at Michigan State University. We specialize in digital pedagogy and digital methodology in the classroom and research specifically in History and Anthropology. I am also interested in the juxtaposition of LLMs, aritifical intelligence, and machine learning in the advancement of historical research.
+Hello and welcome! I’m Gillian Macdonald and I am the Director of LEADR (Lab for the Education and Advancement in Digital Research) at Michigan State University. We specialize in digital pedagogy and digital methodology in the classroom and research specifically in History and Anthropology. I am also interested in the juxtaposition of LLMs, artifical intelligence, and machine learning in the advancement of historical research.
 ## 💾 : About Me
 
 **Current Roles**: Director of LEADR and Director of Computational Cultural Heritage (CCH) Fellowship 
